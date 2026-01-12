@@ -1,0 +1,8 @@
+{
+  "name": "OmniCast ArchX - C# Screen Sharing Architect",
+  "description": "A high-performance C# WPF architecture dashboard for building low-latency LAN screen sharing applications using SharpDX and FFmpeg.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
